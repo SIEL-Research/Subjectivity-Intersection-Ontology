@@ -20,7 +20,7 @@ Manuscript development used GitHub as the public environment for version control
 - **draft revisions**, which preserve successive states of individual sections rather than presenting the manuscript only as a completed document; and
 - **a transparent historical record**, through which the sequence of development can be reconstructed.
 
-At the present stage, the primary public record in the repository is the commit history and the evolving set of draft files. The public issue tracker remains available for structured review questions and future revision work; it should not be represented as a substitute for evidence contained in the manuscript. Stating this distinction prevents the availability of an issue mechanism from being confused with the existence of a completed public review process.
+The repository also contains public issues used during development to formulate and track specific comparative questions. Issues #1–#15 document reviews of individual historical precedents, the N1–N6 cross-comparison, the provisional historical verdict, and potential weaknesses of the proposed framework. The issue record and the commit history perform different functions: issues preserve questions and review topics, while commits record resulting additions and revisions to the manuscript. Neither record is a substitute for evidence contained in the manuscript or for formal peer review.
 
 Version control improves transparency by preserving the sequence between an initial formulation and its later correction or qualification. A reader can identify which claims were introduced together, which sections were revised separately, and whether a later summary corresponds to the underlying comparative work. Descriptive commit messages also make the development of the manuscript easier to audit without requiring every intermediate file to be treated as authoritative.
 
@@ -40,7 +40,7 @@ Open review is therefore treated here as complementary to conventional review. I
 
 ## B.4 Research Repository
 
-The manuscript development history, draft evolution, review mechanisms, and comparative framework are publicly available at:
+The manuscript development history, draft evolution, public review issues, and comparative framework are publicly available at:
 
 [https://github.com/SIEL-Research/Subjectivity-Intersection-Ontology](https://github.com/SIEL-Research/Subjectivity-Intersection-Ontology)
 

@@ -167,6 +167,8 @@ A triadic organization alone therefore does not establish structural equivalence
 
 Structural equivalence does not mean that two theories are identical in every respect. It refers to correspondence with the central structure of SIO along the dimensions evaluated in this study. Differences in historical context, terminology, purpose, domain of application, or argumentative form are described separately from structural correspondence.
 
+For the purposes of this study, a judgment of clear structural equivalence with SIO requires clear satisfaction of N1–N5 and clear satisfaction of N6 as their conjunction condition. Clear satisfaction of N6 is therefore a necessary condition for identifying clear structural equivalence. It does not, however, establish historical identity, intellectual influence, conceptual identity in every respect, or the truth of the ontology under comparison.
+
 ## 3.6 Boundaries of Structural Assessment
 
 The presence of elements shared with SIO does not by itself establish that the compared theory is the same ontology. This study distinguishes similarity, partial correspondence, structural equivalence, and historical identity.

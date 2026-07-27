@@ -89,6 +89,15 @@ This distinction makes it possible to state separately what corresponds and what
 
 This study organizes the structure of SIO defined in Chapter 2 into six explicit criteria, designated N1–N6. These criteria are not intended to score the philosophical value, historical importance, or truth of the theories under comparison. Their purpose is to examine, through a common framework, the extent to which a compared theory corresponds structurally with SIO.
 
+| Criterion | Evaluates |
+|---|---|
+| N1 | Subjective status of the candidate third term |
+| N2 | Direction of generation through intersection |
+| N3 | Action upon and reconstitution of the originating subjectivities |
+| N4 | Ontological status of the candidate third term |
+| N5 | Generality and theoretical scope of the structure |
+| N6 | Integration of N1–N5 within a single ontology |
+
 N1–N6 are not additive scores. N1–N5 are structural criteria assessed separately, while N6 is not an additional scoring item but a conjunction condition for determining whether the required components are integrated within a single theory.
 
 ### 3.4.1 N1—Irreducible Third Subjectivity
@@ -111,9 +120,11 @@ N3 is not satisfied if the third subjectivity remains only a static result. The 
 
 ### 3.4.4 N4—Ontological Reality
 
-Is the third subjectivity treated as an ontological reality rather than being confined to an epistemological, psychological, sociological, linguistic, or metaphorical construct?
+Is the candidate third term treated as an ontological reality rather than being confined to an epistemological, psychological, sociological, linguistic, or metaphorical construct?
 
-N4 does not assess whether the ontological claim made by the theory is true. It assesses the ontological status that the compared theory itself assigns to the third subjectivity.
+N4 does not assess whether the ontological claim made by the theory is true. It assesses the ontological status that the compared theory itself assigns to the candidate third term.
+
+N4 is independent of N1 and N2. Satisfaction of N4 does not establish that the candidate third term is a subjectivity in the sense defined by SIO or that it is generated through intersection. Whether the candidate third term has subjective status is assessed under N1, while whether its direction of generation proceeds through intersection is assessed under N2.
 
 ### 3.4.5 N5—General Theoretical Scope
 
@@ -123,16 +134,17 @@ A structure resembling SIO within a restricted domain may remain significant for
 
 ### 3.4.6 N6—Complete Structural Conjunction
 
-Does a single theory integrate the following components in a self-consistent structure?
+Does a single theory satisfy N1–N5 and integrate them within a self-consistent general ontology?
 
-- differentiated subjectivities;
-- constitutive intersection;
-- emergence of an irreducible third subjectivity; and
-- action upon and reconstitution of the originating subjectivities.
+- differentiated subjectivities and an irreducible third subjectivity;
+- generation of the third subjectivity through constitutive intersection;
+- action of the third subjectivity upon and reconstitution of the originating subjectivities;
+- ontological reality of the candidate third term; and
+- generality and theoretical scope of the integrated structure.
 
-N6 is not satisfied merely because some of these components are present. Nor can it be satisfied by collecting separate components from different periods, texts, schools, or mutually incompatible interpretations. The required components must be integrated within what can defensibly be reconstructed as a single theory.
+N6 is not satisfied merely because some of these components are present. Nor can it be satisfied by collecting separate components from different periods, texts, schools, or mutually incompatible interpretations. N1–N5 must be integrated within what can defensibly be reconstructed as a single general ontology.
 
-N6 is not an independent score added to N1–N5. It is a conjunction condition for determining whether the complete ontological structure of SIO is present as an integrated structure within the compared theory.
+N6 is not an independent score added to N1–N5. It is a conjunction condition for determining whether the complete ontological structure of SIO is present as an integrated structure within the compared theory. N6 receives clear satisfaction only when N1–N5 are each clearly satisfied and integrated within a single ontology. If any of N1–N5 is not satisfied, N6 is not satisfied. Partial or interpretation-dependent satisfaction is appropriate only where N1–N5 are each either clearly or partially satisfied, none is judged not satisfied, and the satisfaction or integration of at least one component remains interpretation-dependent. Insufficient evidence is recorded where one or more of N1–N5 cannot be determined from the available sources and no independently established non-satisfaction already decides the result.
 
 ## 3.5 Structural Equivalence
 
@@ -193,7 +205,7 @@ Each compared theory is evaluated against N1–N6 using the same format.
 | N3 | Definition in Chapter 2 | — | — | — |
 | N4 | Definition in Chapter 2 | — | — | — |
 | N5 | Definition in Chapter 2 | — | — | — |
-| N6 | Definition in Chapter 2 | — | — | — |
+| N6 | Conjunction of N1–N5 | — | — | — |
 
 The **SIO Requirement** column identifies the requirement corresponding to each criterion within the structure defined in Chapter 2.
 

@@ -6,7 +6,7 @@ This directory contains the author-approved manuscript chapters. The files under
 
 - Abstract — to be written last
 - [1. Introduction](01-introduction.md)
-- 2. Subjectivity Intersection Ontology — not yet integrated
+- [2. Subjectivity Intersection Ontology](02-subjectivity-intersection-ontology.md)
 - 3. Comparative Ontological Methodology — not yet integrated
 - 4. Historical Review — not yet integrated
 - 5. Comparative Evaluation — not yet integrated
@@ -16,4 +16,4 @@ This directory contains the author-approved manuscript chapters. The files under
 
 ## Assembly Status
 
-Only Chapter 1 has been integrated at this stage. Later chapters will be added individually after their final English texts have been approved.
+Chapters 1 and 2 have been integrated. Later chapters will be added individually after their final English texts have been approved.

@@ -8,7 +8,6 @@ from pathlib import Path
 
 import matplotlib.pyplot as plt
 from matplotlib.colors import BoundaryNorm, ListedColormap
-from matplotlib.patches import Patch
 
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -56,7 +55,7 @@ def main() -> None:
     cmap = ListedColormap(colors)
     norm = BoundaryNorm([-0.5, 0.5, 1.5, 2.5, 3.5], cmap.N)
 
-    fig, ax = plt.subplots(figsize=(10.8, 10.4), constrained_layout=True)
+    fig, ax = plt.subplots(figsize=(10.8, 9.4), constrained_layout=True)
     ax.imshow(values, cmap=cmap, norm=norm, aspect="auto", interpolation="nearest")
 
     ax.set_xticks(range(len(criteria)), labels=criteria, fontsize=11, fontweight="bold")
@@ -86,29 +85,6 @@ def main() -> None:
 
     for spine in ax.spines.values():
         spine.set_visible(False)
-
-    legend_handles = [
-        Patch(facecolor=STATUS_COLOR[status], edgecolor="#7B8793", label=f"{STATUS_CODE[status]}  {status}")
-        for status in STATUS_ORDER
-    ]
-    ax.legend(
-        handles=legend_handles,
-        loc="upper center",
-        bbox_to_anchor=(0.5, -0.055),
-        ncol=2,
-        frameon=False,
-        fontsize=9.5,
-    )
-    fig.text(
-        0.5,
-        0.008,
-        "Categorical, non-additive assessments; rows follow Chapter 4 order. N6 is the conjunction condition.\n"
-        "P retains the manuscript's unified category; its case-specific grounds are reported in Chapter 4.",
-        ha="center",
-        va="bottom",
-        fontsize=9,
-        color="#4B5967",
-    )
 
     OUTPUT_DIR.mkdir(parents=True, exist_ok=True)
     metadata = {"Title": "Distribution of criterion-level assessments across the comparison set"}

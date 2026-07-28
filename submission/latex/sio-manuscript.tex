@@ -1,0 +1,143 @@
+\documentclass[11pt,a4paper]{article}
+
+\usepackage{fontspec}
+\setmainfont[
+  UprightFont=lmroman10-regular.otf,
+  BoldFont=lmroman10-bold.otf,
+  ItalicFont=lmroman10-italic.otf,
+  BoldItalicFont=lmroman10-bolditalic.otf
+]{lmroman10-regular.otf}
+\setsansfont[
+  UprightFont=lmsans10-regular.otf,
+  BoldFont=lmsans10-bold.otf,
+  ItalicFont=lmsans10-oblique.otf,
+  BoldItalicFont=lmsans10-boldoblique.otf
+]{lmsans10-regular.otf}
+\setmonofont[
+  UprightFont=lmmono10-regular.otf,
+  BoldFont=lmmonolt10-bold.otf,
+  ItalicFont=lmmono10-italic.otf,
+  BoldItalicFont=lmmonolt10-boldoblique.otf
+]{lmmono10-regular.otf}
+
+\usepackage[a4paper,left=27mm,right=27mm,top=26mm,bottom=24mm]{geometry}
+\usepackage{setspace}
+\setstretch{1.18}
+\setlength{\emergencystretch}{2em}
+\usepackage{microtype}
+\usepackage{ragged2e}
+\usepackage{titlesec}
+\usepackage{caption}
+\usepackage{booktabs}
+\usepackage{tabularx}
+\usepackage{array}
+\usepackage{enumitem}
+\usepackage{amsmath,amssymb}
+\usepackage{graphicx}
+\usepackage{xcolor}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta,calc,fit,positioning}
+\usepackage{float}
+\usepackage{placeins}
+\usepackage{hyperref}
+\usepackage{bookmark}
+
+\definecolor{SIOBlue}{HTML}{245B78}
+\definecolor{SIOBlueLight}{HTML}{EAF2F7}
+\definecolor{SIOGreen}{HTML}{2A7563}
+\definecolor{SIOGreenLight}{HTML}{E8F3EF}
+\definecolor{SIOGray}{HTML}{66788A}
+\definecolor{SIOGrayLight}{HTML}{F2F4F6}
+\definecolor{SIOOchre}{HTML}{A66D1F}
+\definecolor{SIOOchreLight}{HTML}{F7EFE4}
+\definecolor{MatrixN}{HTML}{E6E9ED}
+\definecolor{MatrixP}{HTML}{D9A441}
+\definecolor{MatrixC}{HTML}{2D7A69}
+\definecolor{MatrixI}{HTML}{9C8AC7}
+
+\hypersetup{
+  pdftitle={Subjectivity Intersection Ontology: A Comparative Ontological Framework for Third Subjectivity},
+  pdfauthor={Satoru Watanabe},
+  pdfsubject={Subjectivity Intersection Ontology},
+  pdfkeywords={subjectivity, ontology, subjectivity intersection, intersubjectivity, emergence, comparative philosophy},
+  colorlinks=false,
+  pdfborder={0 0 1},
+  linkbordercolor={0 0.75 0.75},
+  urlbordercolor={0 0.75 0.75},
+  citebordercolor={0 0.75 0.75}
+}
+
+\titleformat{\section}{\normalfont\Large\bfseries}{\thesection}{0.75em}{}
+\titleformat{\subsection}{\normalfont\large\bfseries}{\thesubsection}{0.65em}{}
+\titleformat{\subsubsection}{\normalfont\normalsize\bfseries}{\thesubsubsection}{0.55em}{}
+\titleformat{\paragraph}[runin]{\normalfont\normalsize\bfseries}{}{0pt}{}[.]
+\titlespacing*{\section}{0pt}{2.4ex plus .7ex minus .2ex}{1.2ex}
+\titlespacing*{\subsection}{0pt}{2.1ex plus .6ex minus .2ex}{.9ex}
+\titlespacing*{\subsubsection}{0pt}{1.8ex plus .5ex minus .2ex}{.7ex}
+\titlespacing*{\paragraph}{0pt}{1.2ex}{.65em}
+
+\captionsetup{font=small,labelfont=bf,labelsep=period,justification=justified,singlelinecheck=false}
+\setlist[itemize]{leftmargin=2.2em,itemsep=.45em,topsep=.55em}
+\setlist[enumerate]{leftmargin=2.2em,itemsep=.45em,topsep=.55em}
+\setlength{\parindent}{1.5em}
+\setlength{\parskip}{0pt}
+\setlength{\emergencystretch}{2em}
+\clubpenalty=10000
+\widowpenalty=10000
+\displaywidowpenalty=10000
+\raggedbottom
+\pagestyle{plain}
+
+\renewenvironment{abstract}
+  {\begin{center}\bfseries Abstract\end{center}\begin{quotation}\noindent\ignorespaces}
+  {\end{quotation}\vspace{1.0em}}
+
+\newcommand{\referenceentry}[1]{%
+  \par\noindent\hangindent=1.8em\hangafter=1 #1\par\vspace{.55em}%
+}
+\newcommand{\assessmentlegend}{%
+  \par\smallskip\scriptsize\noindent
+  C = clear satisfaction; P = partial or interpretation-dependent satisfaction;
+  N = non-satisfaction; I = insufficient evidence.\normalsize
+}
+
+\input{figures.tex}
+
+\begin{document}
+
+\begin{center}
+  \vspace*{12mm}
+  {\LARGE\bfseries
+   Subjectivity Intersection Ontology:\\[.32em]
+   A Comparative Ontological Framework\\[.32em]
+   for Third Subjectivity\par}
+  \vspace{2.0em}
+  {\large Satoru Watanabe\textsuperscript{*}\par}
+  \vspace{.65em}
+  {\large Subjectivity Intersection Emergence Lab (SIEL), Japan\par}
+  \vspace{1.3em}
+  {\large July 28, 2026\par}
+\end{center}
+\begingroup
+\renewcommand{\thefootnote}{*}
+\footnotetext{Corresponding author: \href{mailto:satoru@siel.global}{satoru@siel.global}}
+\endgroup
+\vspace{2.0em}
+
+\input{generated/00-abstract.tex}
+\input{generated/01-introduction.tex}
+\input{generated/02-subjectivity-intersection-ontology.tex}
+\input{generated/03-comparative-ontological-methodology.tex}
+\input{generated/04-historical-review.tex}
+\input{generated/05-comparative-evaluation.tex}
+\input{generated/06-philosophical-implications-and-research-program.tex}
+\input{generated/07-conclusion.tex}
+
+\clearpage
+\appendix
+\input{generated/appendix-a-open-research-methodology.tex}
+
+\clearpage
+\input{generated/references.tex}
+
+\end{document}

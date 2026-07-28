@@ -20,7 +20,7 @@
   <path d="M354 254 C420 328, 476 354, 551 392" fill="none" stroke="#245B78" stroke-width="3" marker-end="url(#arrowBlue)"/>
   <path d="M846 254 C780 328, 724 354, 649 392" fill="none" stroke="#245B78" stroke-width="3" marker-end="url(#arrowBlue)"/>
   <rect x="438" y="300" width="324" height="42" rx="21" fill="#ffffff" stroke="#C5CED6" stroke-width="1.5"/>
-  <text x="600" y="327" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#245B78">Constitutive perspective intersection</text>
+  <text x="600" y="327" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#245B78">Constitutive intersection</text>
 
   <rect x="423" y="404" width="354" height="112" rx="18" fill="#E8F3EF" stroke="#2A7563" stroke-width="2.5"/>
   <text x="600" y="447" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" fill="#1F594B">Intersection Subjectivity</text>

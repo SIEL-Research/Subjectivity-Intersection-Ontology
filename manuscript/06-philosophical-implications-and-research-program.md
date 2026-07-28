@@ -6,7 +6,7 @@ Chapter 4 examined the structural correspondence between SIO and major historica
 
 The role of the present chapter is not to continue the historical comparison. Nor is it to interpret Proposition 5.1 as a demonstration of the truth, absolute novelty, or philosophical superiority of SIO. This chapter takes SIO, as defined in Chapter 2, as an ontological proposal and examines its philosophical implications, conceptual difficulties, and future research tasks.
 
-The discussion distinguishes ontological claims, formal hypotheses, and empirical claims. Implications derived conceptually from the internal definition of SIO are not identical to hypotheses used to represent that structure mathematically. Nor would the construction of a formal model by itself demonstrate the empirical reality of SIO. Empirical claims require independent operational definitions, methods of observation, and conditions of failure.
+The discussion distinguishes ontological claims, formal hypotheses, and empirical claims. Implications derived conceptually from the internal definition of SIO are not identical to hypotheses used to represent that structure mathematically. Nor would the construction of a formal model by itself demonstrate the empirical reality of third subjectivity. Empirical claims require independent operational definitions, methods of observation, and conditions of failure.
 
 ## 6.2 Reframing Subjectivity and Objectivity
 
@@ -16,7 +16,7 @@ This definition requires reconsideration of the division between subjectivity an
 
 What is ordinarily called objectivity may be reconsidered not as a “view from nowhere” from which perspective has been entirely removed, but as a description, relation, or structure that maintains a degree of stability across different perspectives. Stability across perspectives does not necessarily mean independence from perspective. It may instead be constituted through transformations, correspondences, mutual constraints, or intersections among perspectives.
 
-In this sense, SIO reorganizes the opposition between subjectivity and objectivity through the structure of Absolute Subjectivity, Relative Subjectivity, and Intersection Subjectivity. Absolute Subjectivity projects itself into Relative Subjectivity, and Intersection Subjectivity is constituted in the interval between them. Difference is not added to primordial unity from outside; it arises as a single existence gives perspective to itself.
+In this sense, SIO reorganizes the opposition between subjectivity and objectivity through the structure of Absolute Subjectivity, Relative Subjectivity, and Intersection Subjectivity. Relative Subjectivity is differentiated through the projection of Absolute Subjectivity, and Intersection Subjectivity emerges in the interval between them. Difference is not added to primordial unity from outside; it arises as a single existence gives perspective to itself.
 
 This reconstruction changes not only the proposed account of objectivity but also the formulation of the philosophical problem. The question is not only what remains after subjective perspectives have been removed. It must also concern which relations multiple perspectives form, which structures remain stable across perspectives, and what may be constituted anew through those relations.
 
@@ -24,7 +24,7 @@ SIO does not yet provide a completed theory of objectivity. How stability, trans
 
 ## 6.3 Distinguishing Intersubjectivity from Third Subjectivity
 
-Intersubjectivity is not a single theory and carries different meanings in phenomenology, social philosophy, psychology, psychoanalysis, and cognitive science. In general terms, it may be understood as a family of concepts addressing understanding between multiple subjects, shared meaning, mutual recognition, interaction, or the constitution of a common world.
+Intersubjectivity is not a single theory and carries different meanings in phenomenology, social philosophy, psychology, psychoanalysis, and cognitive science. In general terms, it may be understood as a family of concepts addressing understanding between multiple subjects, shared meaning, mutual recognition, interaction, or the constitution of a common world (Husserl 1960; Schutz 1967; Zahavi 2001; Thompson 2007).
 
 SIO intersects with the domain of intersubjectivity insofar as it concerns relational structures that cannot be explained through isolated subjects alone. The structure proposed by SIO, however, is not limited to describing understanding or shared content between subjects.
 
@@ -50,7 +50,7 @@ Constitution of a third subjectivity
 Reconstitution of the originating subjectivities
 ```
 
-This distinction does not imply that theories of intersubjectivity are deficient in comparison with SIO. They answer different questions. Theories of intersubjectivity ask about the conditions of understanding, a shared world, or mutual recognition among subjects. SIO asks whether intersection among subjects may itself exist as a new subjectivity.
+This distinction does not imply that theories of intersubjectivity are deficient in comparison with SIO. They answer different questions. Theories of intersubjectivity ask about the conditions of understanding, a shared world, or mutual recognition among subjects. SIO asks whether intersection among subjects may itself be constituted as a new subjectivity.
 
 ## 6.4 Relation, Emergence, and Third Subjectivity
 
@@ -58,7 +58,7 @@ SIO assigns ontological significance to relation, but this alone does not make i
 
 The distinctive question posed by SIO is whether relation may generate a new third subjectivity. Relation must not merely connect two subjects; through the constitution of the relation itself, a subjectivity irreducible to either must arise.
 
-SIO must likewise be distinguished from emergentism in general. Emergentist theories address the generation of a new whole, property, function, or organization from the combination of components. The emergence of a new property or function does not by itself establish that what emerges is a subjectivity.
+SIO must likewise be distinguished from emergentism in general. Emergentist theories address the generation of a new whole, property, function, or organization from the combination of components. The emergence of a new property or function does not by itself establish that what emerges is a subjectivity (Bedau and Humphreys 2008).
 
 The structure of SIO includes at least the following conditions:
 
@@ -68,7 +68,7 @@ The structure of SIO includes at least the following conditions:
 - the generated third subjectivity acts back upon the originating subjectivities; and
 - the structure is proposed as a general ontology rather than as an account limited to a particular case.
 
-SIO therefore integrates not merely the reality of relation and the occurrence of emergence, but the generation of subjectivity through relation and the reconstitution of the originating subjectivities by the generated third.
+SIO therefore integrates not merely the reality of relation and the occurrence of emergence, but the generation of subjectivity through relation and the reconstitution of the originating subjectivities by the generated third subjectivity.
 
 As Chapter 5 established, structures corresponding to these components are distributed across multiple theories in the comparison set. The purpose of the present section is not to repeat that historical assessment, but to clarify the philosophical significance of their integration within a single ontological formulation in SIO.
 
@@ -124,7 +124,7 @@ It has not yet been shown, however, that this structure provides a complete reso
 
 ## 6.7 Individuation and Identity of Generated Subjectivities
 
-If the constitution of a third subjectivity is admitted, questions arise concerning its individuation and identity.
+If a third subjectivity can be constituted, questions arise concerning its individuation and identity.
 
 Do A and B remain the same subjectivities after the constitution of C? In what sense are the reconstituted A and B identical to A and B before intersection? Is C an independent individual distinct from A and B, or a relational individual that exists only so long as the relation between A and B continues?
 
@@ -149,7 +149,7 @@ These conditions are not yet settled. This indeterminacy does not refute SIO, bu
 
 The `AB → C → AB` structure requires careful distinctions concerning temporal order and causation.
 
-The statement that C is constituted through the intersection of A and B and subsequently acts upon them does not immediately imply that a temporally later C alters the past physical states of A and B. Ontological reconstitution in SIO must be distinguished from simple physical retrocausality.
+The statement that C is constituted through the intersection of A and B and acts upon them does not imply that a temporally later C alters the past physical states of A and B. Ontological reconstitution in SIO must be distinguished from simple physical retrocausality.
 
 After the constitution of C, what may change is the present organization, mutual relation, meaning, self-understanding, or range of action of A and B. The existence of C may also alter how A and B understand their respective pasts. Reinterpretation of the past, however, is not identical to alteration of past physical events.
 
@@ -223,7 +223,7 @@ The first task of formalization is to determine the state spaces or structures t
 The simplest representation might take the form
 
 \[
-C=F(A,B).
+C = F(A,B).
 \]
 
 This expression alone, however, may fail to represent the history and direction of intersection, closure, the irreducibility of C, and the action of C upon A and B.
@@ -231,7 +231,7 @@ This expression alone, however, may fail to represent the history and direction 
 A history-dependent representation might instead take the form
 
 \[
-C_t=F(A_t,B_t,H_{AB,t}),
+C_t = F(A_t, B_t, H_{AB,t}),
 \]
 
 where \(H_{AB,t}\) denotes the history of the relation between A and B up to time \(t\). This is a formal hypothesis for future investigation, not the ontological definition of SIO itself.
@@ -239,11 +239,11 @@ where \(H_{AB,t}\) denotes the history of the relation between A and B up to tim
 The reconstitution of A and B by C may be represented schematically as
 
 \[
-A_{t+1}=G_A(A_t,C_t),
+A_{t+1} = G_A(A_t, C_t),
 \]
 
 \[
-B_{t+1}=G_B(B_t,C_t).
+B_{t+1} = G_B(B_t, C_t).
 \]
 
 Future formal research must address at least the following:
@@ -287,7 +287,7 @@ Operational hypotheses associated with SIO may be examinable in several domains:
 - human–human interaction;
 - social cognition and joint tasks;
 - EEG and other neurophysiological measurements;
-- inter-brain synchronization and directed interaction;
+- inter-brain synchronization and directed interaction (Hasson et al. 2012; Babiloni and Astolfi 2014);
 - human–AI interaction;
 - systems composed of multiple artificial agents; and
 - collective decision-making and collaborative learning.
@@ -369,7 +369,7 @@ Answers to these questions must be pursued by distinguishing conceptual analysis
 
 SIO should not be understood as a completed metaphysical system. Nor, within the comparative set examined in Chapter 4, can it be identified as a merely terminological restatement of any single prior theory.
 
-SIO is a structured ontological proposal centered on the claim that differentiated subjectivities may generate a further subjectivity through intersection, and that the generated subjectivity may in turn reconstitute the subjectivities from which it arose.
+SIO is a structured ontological proposal centered on the claim that an irreducible further subjectivity may be constituted through the intersection of differentiated subjectivities and may in turn reconstitute the subjectivities from which it arose.
 
 This proposal permits different questions to be posed concerning subjectivity and objectivity, relations among subjects, the ontological status of relation, emergence, unity and multiplicity, individuality, temporality, knowledge, and ethical relations with others.
 

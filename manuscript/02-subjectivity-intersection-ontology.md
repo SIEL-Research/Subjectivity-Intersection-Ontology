@@ -66,7 +66,7 @@ Relative Subjectivity ≠ the coordinates of Relative Subjectivity
 Relative Subjectivity ≠ the observable expressions of Relative Subjectivity
 ```
 
-Relative Subjectivity is not identical to Absolute Subjectivity. Each Relative Subjectivity receives a projection of Absolute Subjectivity, but lives that projection partially and relatively from a particular perspective.
+Relative Subjectivity is not identical to Absolute Subjectivity. Each Relative Subjectivity receives a projection of Absolute Subjectivity but experiences it only partially, from its own relative perspective.
 
 ## 2.5 Intersection Subjectivity
 
@@ -142,7 +142,7 @@ This notation does not represent a simple temporal sequence. The constitution of
 
 Intersection Subjectivity \(C\) is not a third party added externally to \(A\) and \(B\). It is a subjectivity reducible to neither, constituted when the intersection of perspectives completes the relation as a whole.
 
-The constituted intersection acts upon the perspectives, histories, actions, and interactions of \(A\) and \(B\). The initial difference can thereby give rise to new differences, correspondences, relations, and interactions.
+The constituted Intersection Subjectivity acts upon the perspectives, histories, actions, and interactions of \(A\) and \(B\). The initial difference can thereby give rise to new differences, correspondences, relations, and interactions.
 
 `AB → C → AB` is not a definition that replaces the ontological prototype. It is the canonical operational form through which that prototype is represented in relation to multiple Relative Subjectivities.
 
@@ -160,7 +160,7 @@ First, Absolute Subjectivity, Relative Subjectivity, and Intersection Subjectivi
 
 Unobservability does not entail non-existence. Nevertheless, unobservable subjectivity itself must be distinguished from the observable consequences predicted to accompany its constitution.
 
-Second, Intersection Subjectivity is not defined as an average, consensus, or fusion of Relative Subjectivities. Nor can it be explained solely as a common part upon a shared basis or as one subjectivity’s imitation of another. Such phenomena may accompany the constitution of Intersection Subjectivity, but they cannot be identified with Intersection Subjectivity itself.
+Second, Intersection Subjectivity is not defined as an average, consensus, or fusion of Relative Subjectivities. Nor can it be explained solely as a component shared by them or as one subjectivity’s imitation of another. Such phenomena may accompany the constitution of Intersection Subjectivity, but they cannot be identified with Intersection Subjectivity itself.
 
 Third, an observable proxy variable, a mathematical intermediary, or a third node in a computational model is not Intersection Subjectivity itself. These are means of representing the consequences or relational structures predicted if Intersection Subjectivity is constituted.
 

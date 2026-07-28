@@ -92,7 +92,7 @@ Triadic structures and the reality of third terms appear in Plotinus and Trinita
 
 These elements are not, however, integrated in the same way within a single theory. Chapter 4 revealed several recurrent separations.
 
-First, where a candidate third term receives clear ontological reality, that term tends not to be generated through intersection. In Trinitarian ontology, the Holy Spirit is an eternal third hypostasis rather than something emerging from an intersection of Father and Son. In Whitehead, a new subjective unity arises through relation, but the process is not formulated as an intersection of two differentiated subjectivities and does not include the retroactive reconstitution of the originating subjects.
+First, where a candidate third term receives clear ontological reality, that term tends not to be generated through intersection. In Trinitarian ontology, the Holy Spirit is an eternal third hypostasis rather than something emerging from an intersection of Father and Son. In Whitehead, a new subjective unity arises through relation, but the process is not formulated as an intersection of two differentiated subjectivities and does not reconstitute the completed antecedent occasions from which it arises.
 
 Second, where generation through interaction or intersection is clear, the ontological subjectivity or general scope of the generated third term tends to remain limited. In Participatory Sense-Making, interaction constitutes meaning and acts upon the participants, but the interaction process itself is not defined as a subjectivity. In the Analytic Third, the co-generated third experiential structure and its effects upon the participants are clear, but its ontological status remains interpretation-dependent and its theoretical scope is restricted to the analytic situation.
 
@@ -110,13 +110,13 @@ The four cases receiving partial satisfaction for N6 share a common assessment p
 
 None of those correspondences, however, reached clear satisfaction for each of N1–N4. Moreover, integrating multiple phases of thought, concepts, or triadic structures into a single structure corresponding to SIO remained interpretation-dependent. Partial satisfaction of N6 therefore cannot be treated as a complete structural anticipation of SIO.
 
-No comparison case was found in Chapter 4 to clearly satisfy all of N1–N5 and integrate them within a single general ontology.
+No comparison case examined in Chapter 4 clearly satisfied all of N1–N5 and integrated them within a single general ontology.
 
 ### Proposition 5.1. Absence of Clear Structural Equivalence within the Comparative Set
 
 Let \(\mathcal{H}\) denote the set of comparison cases examined in Chapter 4. Let N1–N5, as defined in Chapter 3, designate the structural requirements of SIO, and let N6 designate the conjunction condition assessing their integration within a single general ontology.
 
-Under the definition established in Chapter 3, a judgment that a comparison case bears clear structural equivalence to SIO requires clear satisfaction of N1–N5 and clear satisfaction of N6 as their conjunction condition.
+Under the definition established in Chapter 3, identifying a comparison case as clearly structurally equivalent to SIO requires clear satisfaction of N1–N5 and clear satisfaction of N6 as their conjunction condition.
 
 Under the assessments fixed in Chapter 4,
 
@@ -179,7 +179,7 @@ Neither Proposition 5.1 nor Corollary 5.2 entails that SIO is the first ontology
 
 First, the comparison set is not exhaustive. Second, the individual assessments retain interpretive uncertainty concerning the selection of texts, reconstruction of concepts, and application of the criteria. Third, structural distinction from the examined theories does not establish the conceptual coherence, truth, or empirical validity of SIO.
 
-The conclusion supported by this chapter is narrower. Within the comparison set examined in this manuscript, structures corresponding to N1–N5 appear in distributed form across several traditions, but no comparison case was found to clearly satisfy all of them and integrate them within a single general ontology.
+The conclusion supported by this chapter is narrower. Within the comparison set examined in this manuscript, structures corresponding to N1–N5 appear in distributed form across several traditions, but no comparison case clearly satisfied all of them and integrated them within a single general ontology.
 
 In this limited sense, SIO may be situated not as a merely terminological restatement of any one examined theory, but as a distinguishable ontological research program that integrates previously distributed elements according to a specific direction of constitution and conjunction.
 

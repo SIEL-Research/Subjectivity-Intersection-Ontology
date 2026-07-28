@@ -57,7 +57,7 @@ Public discussion does not replace formal peer review. Its function is to make t
 
 Version control makes it possible to retrieve a particular version of the manuscript, compare passages before and after revision, and inspect the consistency among the criteria in Chapter 3, the assessments in Chapter 4, and the integrated results in Chapter 5. Transparency, however, does not guarantee correctness. Researchers consulting the same materials may reach different interpretations or structural assessments.
 
-Because the `main` branch is updated over time, it is not an immutable object of citation. Criticism or citation of a specific version should identify a complete commit SHA, release tag, or permanently archived version.
+Because the `main` branch is updated over time, it is not an immutable object of citation. Any critique or citation of a specific version should identify a complete commit SHA, release tag, or permanently archived version.
 
 Repository timestamps and revision history establish the order of documentation within this repository. They do not demonstrate intellectual priority, independent discovery, or absolute historical novelty.
 

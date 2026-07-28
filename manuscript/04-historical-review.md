@@ -33,7 +33,7 @@ Ancient Greek philosophy established major ontological alternatives concerning u
 
 #### Textual Evidence
 
-The “Way of Truth” in Parmenides' poem presents what-is as ungenerated, imperishable, complete, indivisible, and unchanging. What-is cannot arise from what-is-not or pass into what-is-not. Becoming, destruction, motion, and plurality do not belong to being in the strict sense, but are assigned to the domain of mortal opinion.
+The “Way of Truth” in Parmenides' poem presents what-is as ungenerated, imperishable, complete, indivisible, and unchanging. What-is cannot arise from what-is-not or pass into what-is-not. Becoming, destruction, motion, and plurality do not belong to being in the strict sense, but are assigned to the domain of mortal opinion (DK 28 B8.1–49; Laks and Most 2016; Curd 1998).
 
 #### Interpretive Reconstruction
 
@@ -51,7 +51,7 @@ N1, N2, and N3 are not satisfied. No third subjectivity, generation of such a su
 
 #### Textual Evidence
 
-The fragments of Heraclitus depict the cosmos as ordered through change, tension, opposition, and transformation. Opposites are not merely exclusive, but are mutually related within a single order. *Logos* appears as the principle indicating that such change follows a common order rather than constituting arbitrary flux.
+The fragments of Heraclitus depict the cosmos as ordered through change, tension, opposition, and transformation. Opposites are not merely exclusive, but are mutually related within a single order. *Logos* appears as the principle indicating that such change follows a common order rather than constituting arbitrary flux (DK 22 B1, B10, B50, B51; Laks and Most 2016; Graham 2010).
 
 #### Interpretive Reconstruction
 
@@ -69,7 +69,7 @@ Process, opposition, and relation provide points of conceptual comparison, but t
 
 #### Textual Evidence
 
-Plato's dialogues discuss in different ways the distinction between sensible particulars and intelligible Forms, the participation of particulars in Forms, and the relations among Forms. The *Phaedo* and the *Republic* emphasize the stability of intelligible Forms, while the *Parmenides* and the *Sophist* examine participation, difference, being, and the relations among kinds in more complex terms.
+Plato's dialogues discuss in different ways the distinction between sensible particulars and intelligible Forms, the participation of particulars in Forms, and the relations among Forms. The *Phaedo* and the *Republic* emphasize the stability of intelligible Forms, while the *Parmenides* and the *Sophist* examine participation, difference, being, and the relations among kinds in more complex terms (*Phaedo* 74a–76e; *Republic* 509d–511e; *Parmenides* 130a–135d; *Sophist* 251a–259e; Plato 1997; Fine 1999).
 
 #### Interpretive Reconstruction
 
@@ -79,7 +79,7 @@ Forms, particulars, and participation, however, do not constitute a structure of
 
 #### Structural Assessment
 
-N1–N3 are not satisfied. N4 is not satisfied because there is no candidate third subjectivity. Although the theory of Forms is presented as a general ontology, it does not present an SIO-type generative structure as a general principle; N5 is therefore not satisfied. N6 is also not satisfied.
+N1–N3 are not satisfied. N4 is not satisfied because there is no candidate third term. Although the theory of Forms is presented as a general ontology, it does not present an SIO-type generative structure as a general principle; N5 is therefore not satisfied. N6 is also not satisfied.
 
 **Limitation of the present comparison:** Plato's ontology develops through dialogues with differing problems and argumentative trajectories. Any reconstruction of the theory of Forms, participation, and relations among kinds as a single fixed system is therefore limited.
 
@@ -87,7 +87,7 @@ N1–N3 are not satisfied. N4 is not satisfied because there is no candidate thi
 
 #### Textual Evidence
 
-In the *Categories*, primary substances are treated as individual beings that are neither predicated of a subject nor present in a subject. Relation is recognized as one category, but ordinarily depends upon the relata. In the *Metaphysics*, substance is analyzed through form, matter, and their composite, with form playing a central role in explaining what a thing is.
+In the *Categories*, primary substances are treated as individual beings that are neither predicated of a subject nor present in a subject. Relation is recognized as one category, but ordinarily depends upon the relata. In the *Metaphysics*, substance is analyzed through form, matter, and their composite, with form playing a central role in explaining what a thing is (*Categories* 2a11–19, 6a36–8b24; *Metaphysics* VII.1–3, 1028a10–1029a30; Aristotle 1984; Loux 1991).
 
 #### Interpretive Reconstruction
 
@@ -105,7 +105,7 @@ N1–N4 are not satisfied. Aristotle's theories of substance and relation have g
 
 #### Textual Evidence
 
-The *Enneads* present a hierarchical structure of the One, Intellect (*Nous*), and Soul. The One exceeds being and plurality. Intellect proceeds from the One and contains the intelligible Forms as a unified multiplicity, while Soul proceeds from Intellect and mediates between intelligible order and the sensible cosmos. Procession is accompanied by return toward the source.
+The *Enneads* present a hierarchical structure of the One, Intellect (*Nous*), and Soul. The One exceeds being and plurality. Intellect proceeds from the One and contains the intelligible Forms as a unified multiplicity, while Soul proceeds from Intellect and mediates between intelligible order and the sensible cosmos. Procession is accompanied by return toward the source (*Enneads* V.1.6–7, V.2.1–2; Plotinus 2017; Gerson 1994; Emilsson 2007).
 
 #### Interpretive Reconstruction
 
@@ -143,7 +143,7 @@ These traditions have distinct historical contexts, primary texts, problems, and
 
 #### Textual Evidence
 
-The early Upaniṣads discuss the relation between self (*ātman*) and ultimate reality (*brahman*) in diverse forms. In the later system of Advaita Vedānta, particularly as associated with Śaṅkara, the true self is understood not as body, psyche, or personal history, but as pure consciousness non-different from *brahman*.
+The early Upaniṣads discuss the relation between self (*ātman*) and ultimate reality (*brahman*) in diverse forms (*Bṛhadāraṇyaka Upaniṣad* 1.4.10, 3.7.1–23; *Chāndogya Upaniṣad* 6.8.7–6.16.3; Olivelle 1998; Cohen 2024). In the later system of Advaita Vedānta, particularly as associated with Śaṅkara, the true self is understood not as body, psyche, or personal history, but as pure consciousness non-different from *brahman* (Śaṅkara 1992; Deutsch 1969).
 
 The Upaniṣads are not a single systematic work and contain multiple formulations concerning self, cosmos, unity, and difference. The present reconstruction does not reduce all of them to one doctrine, but concentrates on the nondual interpretation systematized in Advaita.
 
@@ -161,7 +161,7 @@ N1–N3 are not satisfied because there is no intersection of differentiated sub
 
 #### Textual Evidence
 
-Sāṃkhya, as represented by the *Sāṃkhyakārikā*, proposes a dualism of *puruṣa*, pure consciousness, and *prakṛti*, changing primordial nature. From *prakṛti* develop intellect, ego, mind, sensory capacities, subtle elements, and the material world. Classical Yoga adopts much of this ontology and connects liberation to discrimination between *puruṣa* and *prakṛti*.
+Sāṃkhya, as represented by the *Sāṃkhyakārikā*, proposes a dualism of *puruṣa*, pure consciousness, and *prakṛti*, changing primordial nature. From *prakṛti* develop intellect, ego, mind, sensory capacities, subtle elements, and the material world (*Sāṃkhyakārikā* 3, 17, 21–22; Īśvarakṛṣṇa 1969; Larson and Bhattacharya 1987). Classical Yoga adopts much of this ontology and connects liberation to discrimination between *puruṣa* and *prakṛti* (*Yoga Sūtras* 1.24, 2.18–26; Patañjali 2009).
 
 Classical Sāṃkhya generally recognizes a plurality of *puruṣas*, each of which is immutable and witnesses the changes of *prakṛti*. The recognition in Classical Yoga of Īśvara as a special *puruṣa* does not dissolve the fundamental distinction between consciousness and nature.
 
@@ -179,7 +179,7 @@ The difference and conjunction of two principles are recognized, but no third su
 
 #### Textual Evidence
 
-Nyāya and Vaiśeṣika developed systems of categories including substance, quality, motion, universal, particularity, inherence, and, in later formulations, absence. The self is treated as an enduring substance, while material reality includes atoms and composites. Relations such as conjunction, disjunction, and inherence explain composites, qualities, and part–whole structures.
+Nyāya and Vaiśeṣika developed systems of categories including substance, quality, motion, universal, particularity, inherence, and, in later formulations, absence. The self is treated as an enduring substance, while material reality includes atoms and composites. Relations such as conjunction, disjunction, and inherence explain composites, qualities, and part–whole structures (*Nyāya Sūtra* 1.1.9–10; Gautama 2017; *Vaiśeṣikasūtra* 1.1.4–16; Kaṇāda 2021; Potter 1977; Ganeri 2001).
 
 The two schools did not originate as a single system, but became integrated through historical development. Their number of categories, accounts of self, and relation to epistemology vary across periods. The present comparison considers their mature realist categorial framework.
 
@@ -197,7 +197,7 @@ The reality of relations and wholes is recognized, but the generation of a third
 
 #### Textual Evidence
 
-Early Buddhist texts analyze the person in terms of changing components such as the five aggregates and maintain that no permanent, autonomous self can be found. Dependent origination explains phenomena as arising in dependence upon conditions, accounting for experience, action, suffering, and continuity without positing an enduring self-substance.
+Early Buddhist texts analyze the person in terms of changing components such as the five aggregates and maintain that no permanent, autonomous self can be found. Dependent origination explains phenomena as arising in dependence upon conditions, accounting for experience, action, suffering, and continuity without positing an enduring self-substance (*Saṃyutta Nikāya* 12.1, 22.59; Bodhi 2000; Gethin 1998).
 
 These doctrines were developed into different ontological and epistemological systems by later Buddhist schools. This section therefore treats early Buddhism not as a completed and unified relational ontology, but as a historical structure defined by non-self and conditioned arising.
 
@@ -217,7 +217,7 @@ N1 and N3 are not satisfied. N2 receives partial correspondence because of the s
 
 #### Textual Evidence
 
-Madhyamaka, originating with Nāgārjuna's *Mūlamadhyamakakārikā*, argues that all phenomena lack intrinsic nature (*svabhāva*). Emptiness does not signify simple nonexistence; it indicates that phenomena lack independent self-grounding and function in dependence upon causal, conceptual, and practical conditions. Emptiness itself is not presented as a new substance.
+Madhyamaka, originating with Nāgārjuna's *Mūlamadhyamakakārikā*, argues that all phenomena lack intrinsic nature (*svabhāva*). Emptiness does not signify simple nonexistence; it indicates that phenomena lack independent self-grounding and function in dependence upon causal, conceptual, and practical conditions. Emptiness itself is not presented as a new substance (*Mūlamadhyamakakārikā* 15.1–2, 24.18–19; Nāgārjuna 2013; Siderits 2007; Westerhoff 2009).
 
 The distinction between conventional and ultimate truth prevents the critique of intrinsic reality from becoming a wholesale denial of ordinary or practical causation. Because Madhyamaka itself contains interpretive differences, this section does not reduce all of its forms to a single doctrine.
 
@@ -235,7 +235,7 @@ N1 and N3 are not satisfied. The general structure of dependent constitution pro
 
 #### Textual Evidence
 
-Jain philosophy presents a pluralist realism recognizing many individual living selves (*jīva*) and non-living realities (*ajīva*). Substances persist while undergoing modal change. The doctrine of many-sidedness (*anekāntavāda*) holds that reality cannot be exhausted by a single unqualified proposition and requires qualified descriptions from different standpoints.
+Jain philosophy presents a pluralist realism recognizing many individual living selves (*jīva*) and non-living realities (*ajīva*). Substances persist while undergoing modal change. The doctrine of many-sidedness (*anekāntavāda*) holds that reality cannot be exhausted by a single unqualified proposition and requires qualified descriptions from different standpoints (*Tattvārtha Sūtra* 2.8–13, 5.29; Umāsvāti 1994; Dundas 2002).
 
 Conditional predication does not reduce truth to arbitrary subjectivity. It specifies the standpoint and qualification under which a proposition is valid, thereby addressing both the many-sided character of reality and the partial character of cognition.
 
@@ -253,9 +253,11 @@ Multiple subjects and perspectives are recognized, but no irreducible third subj
 
 #### Textual Evidence
 
-Kashmir Śaivism, particularly the Pratyabhijñā tradition associated with Utpaladeva and Abhinavagupta, understands ultimate reality as Śiva. Śiva is not a static One, but self-luminous consciousness inseparable from Śakti, the power of differentiation, manifestation, and action. The world is a real manifestation of consciousness, while finite subjects arise through the contraction or limitation of universal consciousness.
+The Pratyabhijñā tradition associated with Utpaladeva and Abhinavagupta understands ultimate reality as a single self-manifesting consciousness endowed with the powers of knowledge and action. Utpaladeva's opening verses identify recognition of the Lord as recognition of one's own consciousness and connect subjectivity with the powers of cognition and agency (Utpaladeva 1994, ĪPK I.1.1–5). His analysis of manifestation argues that an object cannot be manifested as something wholly external to the consciousness in which it appears (Utpaladeva 1994, ĪPK I.5.1–2).
 
-Recognition (*pratyabhijñā*) means that the finite subject recognizes its ultimate identity as Śiva. Triadic structures such as knower, knowing, and known are also discussed within nondual consciousness.
+The later sections of the work distinguish transindividual consciousness from the layers with which a limited subject identifies, including void, life-force, the internal faculties, and the body (Utpaladeva 1994, ĪPK III.1.8, III.2.12–13). Abhinavagupta's *Īśvarapratyabhijñāvimarśinī*, in its commentary on these passages, develops the relation between universal consciousness, contracted subjectivity, recognition, and the transformation of the limited subject (Abhinavagupta 1986, ad ĪPK I.1.1–5, I.5.1–2, III.1.8, and III.2.12–13; Wallis 2020, 144–169).
+
+On this account, the world is not an unreal appearance external to consciousness. Differentiation is a manifestation of the freedom and power of consciousness, while finite subjects arise through determinate forms of limitation or contraction. Recognition transforms finite self-understanding by disclosing its relation to the universal subject.
 
 “Kashmir Śaivism” does not designate a single homogeneous school. The present comparison primarily addresses the systematic ontology of consciousness developed in the Pratyabhijñā tradition while preserving its differences from other Śaiva traditions.
 
@@ -291,9 +293,13 @@ The structure is presented as a general ontology, so N5 is clearly satisfied. Al
 
 ### 4.4.1 Textual Evidence
 
-The Council of Nicaea in 325 expressed, through the term *homoousios*, that the Son is of the same essence or substance as the Father. The Council of Constantinople in 381 reaffirmed this direction and provided a more explicit formulation of the status of the Holy Spirit.
+The creed issued at Nicaea in 325 expressed, through the term *homoousios*, that the Son is of the same essence or substance as the Father. The creed conventionally associated with Constantinople in 381 provided a more explicit confession of the status of the Holy Spirit, although the documentary history of that creed and its relation to the council requires historical qualification (Tanner 1990, 1:5–6, 21–24; Ayres 2004).
 
-The Cappadocian Fathers played an important role in establishing the terminology that distinguishes one essence (*ousia*) from three hypostases (*hypostaseis*). Augustine's *De Trinitate* analyzed their distinction through relation while maintaining the equality and unity of the three. Later Eastern and Western traditions addressed the eternal relations of origin among Father, Son, and Holy Spirit, mutual indwelling (*perichoresis*), and hypostases distinguished by relation.
+The Cappadocian distinction between one divine essence (*ousia*) and three hypostases (*hypostaseis*) was neither established instantaneously nor employed with complete terminological uniformity. Basil's *On the Holy Spirit* distinguishes the hypostases while emphasizing the coordination and inseparability of divine activity (Basil of Caesarea 2011, chs. 16–18; Ayres 2004).
+
+Gregory of Nyssa addresses the unity and differentiation of the divine in both *Against Eunomius* and the shorter treatise *To Ablabius: On Not Three Gods* (Gregory of Nyssa 1893a, 1893b). In the latter, Gregory explicitly considers why Father, Son, and Holy Spirit should not be enumerated as three Gods in the manner in which three human individuals are enumerated. His response emphasizes the non-separation of divine activity: the activity attributed to the Father is realized through the Son and completed in the Holy Spirit, and is therefore not divided into three independent operations (Gregory of Nyssa 1893b, 331–336; Ayres 2002, 445–474; Radde-Gallwitz 2018, 129–164).
+
+Augustine's *De Trinitate* analyzed the distinction among the three through relation while maintaining their equality and unity (Augustine 1991, books V–VII). Later Eastern and Western traditions addressed the eternal relations of origin among Father, Son, and Holy Spirit, mutual indwelling (*perichoresis*), and hypostases distinguished by relation.
 
 “Trinitarian ontology” was not expressed through a single, identical vocabulary and theory in every period and confession. Eastern and Western traditions developed different emphases and formulations concerning hypostasis, essence, relation, and the procession of the Holy Spirit. The present section acknowledges these differences while examining the basic structure shared within the Nicene tradition.
 
@@ -327,9 +333,11 @@ This section treats Schelling and Hegel as distinct philosophical developments. 
 
 #### Textual Evidence
 
-Schelling's philosophy of nature treats nature not as an inert mechanism but as a productive and self-organizing process. The *System of Transcendental Idealism* reconstructs the stages through which self-consciousness comes to understand itself and objectivity. The philosophy of identity seeks to understand subjectivity and objectivity, nature and spirit, within an Absolute irreducible to either side.
+Schelling's philosophy of nature does not treat nature as an aggregate of finished products. In *Ideas for a Philosophy of Nature*, nature is approached genetically, as a productive activity manifested in particular products and continuous processes of becoming (Schelling 1988, 42, 133–134). The *System of Transcendental Idealism* correspondingly presents philosophy as a progressive history of self-consciousness. Its successive epochs reconstruct the emergence of intuition, reflection, will, organization, and objectivity from the activities of intelligence (Schelling 1978, 50, 90, 125–126, 134). Near the conclusion of the account of history, Schelling describes the objective world as arising through an initially non-conscious mechanism of intelligence (Schelling 1978, 213).
 
-The *Freedom Essay*, the drafts of *The Ages of the World*, and the later positive philosophy emphasize ground and existence, freedom, temporal development, and the difference between conceptual possibility and actuality. Schelling's work as a whole cannot therefore be reduced to one completed system.
+The *Freedom Essay* introduces a distinction between being insofar as it exists and being insofar as it constitutes the ground of existence. Ground and existence are differentiated without being treated as two independently existing substances (Schelling 2006, 27–32 [SW VII:357–364]). The 1815 version of *The Ages of the World* places this distinction within a temporal account of the development of a living and actual being (Schelling 2000, xxxv–xl, 3–74). In the later Berlin lectures, Schelling distinguishes negative philosophy, which investigates what beings can be through reason, from positive philosophy, which begins from the actuality of existence that cannot be derived from conceptual possibility alone (Schelling 2007, 141–212).
+
+These texts belong to different phases of Schelling's philosophy and should not be combined as though they constituted one unchanged system (Beiser 2002; Bowie 1993).
 
 #### Interpretive Reconstruction
 
@@ -349,9 +357,11 @@ None of N1–N4 is judged not satisfied, but their satisfaction and mutual integ
 
 #### Textual Evidence
 
-The *Phenomenology of Spirit* describes a process in which consciousness and self-consciousness develop, through the limitations of their respective standpoints, into recognition, reason, social spirit, and knowledge. In the *Science of Logic*, the determinations of being, essence, and concept develop through their internal dependence and negation. The *Encyclopaedia* presents a system relating logic, nature, and spirit.
+The *Phenomenology of Spirit* presents consciousness not as a fixed possession but as a succession of forms whose claims are tested and transformed through experience. In the account of recognition, self-consciousness is articulated through its relation to another self-consciousness rather than as an independently completed interior substance (Hegel 2018, §§178–196).
 
-In the account of recognition, self-consciousness is constituted through relation to another self-consciousness. In objective spirit, norms, institutions, and social practices shape individual freedom and self-understanding.
+The *Science of Logic* similarly treats categorial development as internal to the determinations themselves rather than as an externally imposed sequence. At the beginning of the work, pure being and pure nothing pass into becoming through their mutual instability (Hegel 2010b, 59–60). At its conclusion, the absolute idea is presented through a method whose movement belongs to the content rather than being externally applied to it (Hegel 2010b, 735–753). The *Encyclopaedia* organizes the philosophical system into Logic, Nature, and Spirit, describing Spirit as the Idea returning from its otherness in Nature (Hegel 2010a, §18).
+
+In Part III of the *Encyclopaedia*, objective spirit encompasses right, morality, and ethical life. Individual freedom thereby acquires determinate form through social practices, legal institutions, and shared forms of ethical life rather than remaining an exclusively private capacity (Hegel 2007, §§483–552; Pippin 2008).
 
 #### Interpretive Reconstruction
 
@@ -359,7 +369,7 @@ For Hegel, identity does not arise independently of difference, negation, and me
 
 Norms and institutions arising from mutual recognition are not reducible to individual intentions and may act back upon individuals. In this respect, the structure partially corresponds to the operational form in SIO whereby a structure constituted through relation transforms the originating subjectivities.
 
-Objective spirit and institutions, however, are not explicitly defined as irreducible third subjectivities emerging from the intersection of two subjectivities. Nor can every dialectical third term be treated as a subjectivity. At the systematic level, development is understood as the self-development of the Concept or Spirit, and its direction of constitution is therefore not identical to that of SIO.
+Objective spirit and institutions, however, are not explicitly defined as irreducible third subjectivities emerging from the intersection of two subjectivities. Nor can every dialectical third term be treated as a subjectivity. At the systematic level, development is understood as the self-development of the Concept or Spirit, and its direction of constitution is therefore not identical to that of SIO. Treating objective spirit as a candidate third term consequently remains an interpretive reconstruction rather than an explicit Hegelian formulation (Moyar 2017).
 
 #### Structural Assessment
 
@@ -367,7 +377,7 @@ Recognition, mediation, and objective spirit provide partial and interpretation-
 
 None of N1–N4 is judged not satisfied, but their correspondence and integration remain interpretation-dependent. N6 therefore receives partial or interpretation-dependent satisfaction.
 
-**Limitation of the present comparison:** This assessment does not resolve disputes among metaphysical, non-metaphysical, social-institutional, and conceptual interpretations of Hegel. Reading objective spirit as a candidate third subjectivity is itself interpretive.
+**Limitation of the present comparison:** This assessment does not resolve disputes among metaphysical, non-metaphysical, social-institutional, and conceptual interpretations of Hegel. Interpreting objective spirit as a candidate third term with subjective status is itself interpretation-dependent.
 
 ### 4.5.3 Criterion-Level Summary: German Idealism
 
@@ -384,9 +394,13 @@ This section examines Nishida Kitarō, Alfred North Whitehead, and Maurice Merle
 
 #### Textual Evidence
 
-Nishida's early philosophy centered on pure experience and self-awareness, while his middle period and later work developed the logic of place. Place (*basho*) is understood not as a space containing independently established beings, but as the field in which judgment, subject, object, and individual arise. Absolute nothingness, as the ultimate place, is discussed as encompassing the opposition between being and non-being and between subject and object.
+Nishida's early philosophy begins from pure experience, understood as experience prior to the reflective separation of subject and object. *An Inquiry into the Good* develops this account through its initial analysis of pure experience and its subsequent discussion of intellectual intuition (Nishida 1990, 3–10, 30–32).
 
-Nishida's later theory of the historical world emphasizes reciprocal determination: individuals form the world while the world conditions their actions and self-understanding. His philosophy developed through several stages, and pure experience, place, absolute nothingness, and the historical world cannot be treated as elements of one unchanged system.
+The essay “Basho” introduces place not as an independently existing container but as that within which judgments and the distinction between subject and predicate, or subject and object, become possible. Its successive forms culminate in the place of absolute nothingness, which is not treated as one being opposed to other beings (Nishida 2012, 49–102; Krummel 2015).
+
+In “Logic and Life,” Nishida applies the logic of place to social existence and the historical world. Individuals act upon and form the historical world while their activity is simultaneously conditioned by that world. Nishida describes this structure through reciprocal determination rather than through a unidirectional relation between an independently constituted subject and an external environment (Nishida 2012, 103–174; see also Nishida 1970). His final essay develops the standpoint of absolute nothingness in relation to religious self-awareness, while retaining the irreducibility of the world of historical existence (Nishida 1987, 47–123).
+
+These writings belong to distinct phases of Nishida's development and should not be treated as one unchanged system (Krummel 2015).
 
 #### Interpretive Reconstruction
 
@@ -406,7 +420,7 @@ None of N1–N4 is judged not satisfied, but their correspondence and integratio
 
 #### Textual Evidence
 
-In *Process and Reality*, actual entities or actual occasions are defined not as enduring substances but as processes of becoming. Prehension names the relation through which a new actual occasion takes up and feels elements of antecedent reality. In concrescence, many data are formed into a new unity. Once completed, the actual occasion becomes an objective datum for subsequent becoming.
+In *Process and Reality*, actual entities or actual occasions are defined not as enduring substances but as processes of becoming. Prehension names the relation through which a new actual occasion takes up and feels elements of antecedent reality. In concrescence, many data are formed into a new unity. Once completed, the actual occasion becomes an objective datum for subsequent becoming (Whitehead 1978, 18–29, 210–215).
 
 Enduring objects, living organisms, and persons are understood not as unchanging substrates, but as organized societies or series of actual occasions. Stability is explained through inherited order and repetition rather than through a substance that arrests becoming.
 
@@ -414,11 +428,11 @@ Enduring objects, living organisms, and persons are understood not as unchanging
 
 In Whitehead's ontology, relation is not something added after the completion of substance. An actual occasion becomes a new subject through its relations with an antecedent world. A structure in which relation generates a new subjective unity is therefore clearly present.
 
-Concrescence, however, ordinarily integrates many antecedent data rather than constituting the intersection of two differentiated subjectivities. Its temporal direction is also asymmetrical: a later actual occasion does not retroactively reconstitute the becoming of antecedent occasions that have already reached completion.
+Concrescence, however, ordinarily integrates many antecedent data rather than constituting the intersection of two differentiated subjectivities. Its temporal direction is also asymmetrical: a later actual occasion does not reconstitute the completed antecedent occasions from which it arises.
 
 #### Structural Assessment
 
-Because relation gives rise to a new subjective unity, N1 and N2 receive partial correspondence. A later occasion is affected by the antecedent world and conditions subsequent processes, but does not retroactively reconstitute its originating subjects; N3 is therefore not satisfied.
+Because relation gives rise to a new subjective unity, N1 and N2 receive partial correspondence. A later occasion is affected by the antecedent world and conditions subsequent processes, but it does not reconstitute the completed antecedent occasions from which it arises; N3 is therefore not satisfied.
 
 An actual occasion is not merely a relational pattern or an observer's description, but an ontological unit technically defined as a subject in becoming. N4 is therefore clearly satisfied. This assessment concerns its ontological status and does not imply that an actual occasion is identical to Intersection Subjectivity in SIO.
 
@@ -430,7 +444,7 @@ Since the structure is a general ontological principle, N5 is also clearly satis
 
 #### Textual Evidence
 
-The *Phenomenology of Perception* treats the body not merely as an object but as a bodily subject that perceives and acts in the world. In the later *The Visible and the Invisible*, Flesh, chiasm, and reversibility are introduced to describe the relations between seer and seen, toucher and touched, and self and other.
+The *Phenomenology of Perception* treats the body not merely as an object but as a bodily subject that perceives and acts in the world (Merleau-Ponty 2012). In the later *The Visible and the Invisible*, Flesh, chiasm, and reversibility are introduced to describe the relations between seer and seen, toucher and touched, and self and other (Merleau-Ponty 1968, 130–155).
 
 Intercorporeality describes a structure in which embodied subjects belong to a shared sensible world and become mutually intelligible through gesture, action, and perception. Reversibility indicates that activity and passivity, perceiver and perceived, are not two wholly separate domains, while preserving their difference.
 
@@ -442,7 +456,7 @@ Flesh, however, is not a third subjectivity generated through the intersection o
 
 #### Structural Assessment
 
-N1 is not satisfied because Flesh is not presented as a third subjectivity. Chiasm and mutual constitution provide partial correspondence under N2. Transformation of subjects through relation is discussed, but not as the action of a third subjectivity; N3 is therefore not satisfied. Although Flesh has ontological status, it is not a candidate third subjectivity, so N4 is not satisfied. The relational and embodied structure has broad scope, providing partial correspondence under N5. N6 is not satisfied.
+N1 is not satisfied because Flesh is not presented as a third subjectivity. Chiasm and mutual constitution provide partial correspondence under N2. Transformation of subjects through relation is discussed, but not as the action of a third subjectivity; N3 is therefore not satisfied. Although Flesh has ontological status, it is not a candidate third term of the relevant kind, so N4 is not satisfied. The relational and embodied structure has broad scope, providing partial correspondence under N5. N6 is not satisfied.
 
 **Limitation of the present comparison:** The later ontology of Flesh and chiasm is found in an unfinished work and working notes. Its systematic position and continuity with the earlier phenomenology remain interpretively uncertain.
 
@@ -462,7 +476,7 @@ This section examines Participatory Sense-Making in cognitive science, the Analy
 
 #### Textual Evidence
 
-Participatory Sense-Making, developed by Hanne De Jaegher and Ezequiel Di Paolo, does not explain social cognition solely as inference by isolated individuals concerning the internal states of others. Interaction between autonomous agents may form patterns of coordination and a limited interactional autonomy irreducible to the sum of the participants' intentions.
+Participatory Sense-Making, developed by Hanne De Jaegher and Ezequiel Di Paolo, does not explain social cognition solely as inference by isolated individuals concerning the internal states of others. Interaction between autonomous agents may form patterns of coordination and a limited interactional autonomy irreducible to the sum of the participants' intentions (De Jaegher and Di Paolo 2007; De Jaegher, Di Paolo, and Gallagher 2010).
 
 Participants maintain, modify, or terminate the interaction, while the interaction process that arises may itself enable, constrain, and transform the sense-making of each participant. Autonomy here does not mean a persistent substance independent of the participants, but an interaction process possessing a degree of organization and constraint.
 
@@ -482,7 +496,7 @@ N1 is not satisfied because the interaction process is not explicitly assigned s
 
 #### Textual Evidence
 
-Thomas Ogden's Analytic Third describes an analytic experience that arises through the relation between analyst and analysand and cannot be attributed exclusively to the private experience of either. The analyst's reveries, affects, bodily sensations, associations, and silences may be interpreted both as personal experiences and as expressions of a process co-generated by the analytic relation.
+Thomas Ogden's Analytic Third describes an analytic experience that arises through the relation between analyst and analysand and cannot be attributed exclusively to the private experience of either. The analyst's reveries, affects, bodily sensations, associations, and silences may be interpreted both as personal experiences and as expressions of a process co-generated by the analytic relation (Ogden 1994).
 
 The Analytic Third is not identical to every theory of intersubjectivity or every concept of a psychoanalytic field. Ogden's formulation concerns a particular form of co-generated experience arising within the asymmetrical clinical relation between analyst and analysand.
 
@@ -502,7 +516,7 @@ Because a third experiential structure is co-generated, N1 receives partial and 
 
 #### Textual Evidence
 
-Cosmopsychism comprises positions in the philosophy of mind according to which the cosmos as a whole possesses consciousness or fundamental subjectivity. In constitutive and priority cosmopsychism, individual conscious subjects are grounded in, constituted by, or otherwise dependent upon facts concerning a cosmic subject.
+Cosmopsychism comprises positions in the philosophy of mind according to which the cosmos as a whole possesses consciousness or fundamental subjectivity. In constitutive and priority cosmopsychism, individual conscious subjects are grounded in, constituted by, or otherwise dependent upon facts concerning a cosmic subject (Shani 2015; Nagasawa and Wager 2016; Goff 2017).
 
 This position may avoid the combination problem of explaining how micro-subjects constitute a macro-subject, but it faces the decomposition problem of explaining how multiple finite subjects arise from one cosmic subject. Cosmopsychist theories also differ concerning constitution, grounding, and ontological priority.
 
@@ -532,10 +546,10 @@ Subjectivity is assigned clear ontological reality, but treating the cosmic subj
 
 For each comparison case, this chapter separated textual evidence, interpretive reconstruction, structural assessment, and a case-specific limitation before applying N1–N6 individually.
 
-At this stage, no overall grade is assigned to any theory, and no integrated conclusion is offered concerning historical precedence or proximity to SIO. A case's clear or partial satisfaction of several criteria is recorded as such, but the significance of that combination for the historical position of SIO cannot be concluded from this chapter alone.
+At this stage, no overall grade is assigned to any theory, and no integrated conclusion is offered concerning historical precedent or structural proximity to SIO. A case's clear or partial satisfaction of several criteria is recorded as such, but the significance of that combination for the historical position of SIO cannot be concluded from this chapter alone.
 
 Partial satisfaction of N6 likewise does not mean that the complete structure of SIO has been anticipated. It indicates that none of N1–N5 has been found clearly not satisfied, while satisfaction of the individual criteria or their integration within one ontology remains interpretation-dependent. Confirmation of complete structural conjunction requires clear satisfaction of all of N1–N5.
 
-Chapter 5 compares the criterion-level assessments across cases. Only at that stage will the analysis evaluate which structures appear across multiple traditions, which combinations of criteria are concentrated in particular theories, and whether the complete structural conjunction of SIO is identifiable within the scope of the review.
+Chapter 5 compares the criterion-level assessments across cases. At that stage, the analysis evaluates which structures appear across multiple traditions, which combinations of criteria are concentrated in particular theories, and whether the complete structural conjunction of SIO is identifiable within the scope of the review.
 
 What this chapter has assessed is the structural correspondence of the compared ontologies with SIO, not the truth, validity, or historical novelty of SIO itself. The historical position of SIO is evaluated only in Chapter 5, where the criterion-level assessments obtained here are integrated across cases.

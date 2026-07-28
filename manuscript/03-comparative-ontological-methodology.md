@@ -10,7 +10,7 @@ Ontological comparison therefore requires an explicit method for distinguishing 
 
 The methodology developed in this chapter is not proposed as a universal taxonomy of ontologies. It is introduced specifically as a framework for evaluating structural correspondence with Subjectivity Intersection Ontology (SIO).
 
-Nor is this methodology intended to replace historical interpretation with a mechanical procedure. The reconstruction of a theory in its linguistic, historical, and argumentative context remains indispensable. The purpose of this chapter is to make the grounds of the structural judgment that follows such interpretation explicit, transparent, and open to examination.
+Nor is this methodology intended to replace historical interpretation with a mechanical procedure. The reconstruction of a theory in its linguistic, historical, and argumentative context remains indispensable. The purpose of this chapter is to make the grounds of the structural judgments that follow such interpretation explicit, transparent, and open to examination.
 
 ## 3.2 The Problem of Superficial Similarity
 
@@ -219,7 +219,7 @@ The **Structural Assessment** column compares the reconstructed structure with N
 
 This three-stage separation distinguishes objections concerning textual evidence from objections concerning the reconstruction of a theory and from objections concerning the application of the structural criteria. A reader may dispute one stage without necessarily rejecting the other stages or the comparative method as a whole.
 
-Cross-case judgments concerning structural correspondence and historical novelty are reserved for the comparative synthesis in Chapter 5, where they are derived from the criterion-level evidence rather than assigned within individual comparisons.
+Cross-case judgments concerning structural correspondence and the historical position of SIO are reserved for the comparative synthesis in Chapter 5, where they are derived from the criterion-level evidence rather than assigned within individual comparisons.
 
 ## 3.8 Methodological Scope
 

@@ -4,7 +4,7 @@ This directory contains the author-approved manuscript chapters. The files under
 
 ## Fixed Manuscript Architecture
 
-- Abstract — to be written last
+- [Abstract](00-abstract.md)
 - [1. Introduction](01-introduction.md)
 - [2. Subjectivity Intersection Ontology](02-subjectivity-intersection-ontology.md)
 - [3. Comparative Ontological Methodology](03-comparative-ontological-methodology.md)
@@ -15,4 +15,4 @@ This directory contains the author-approved manuscript chapters. The files under
 
 ## Assembly Status
 
-Chapters 1 through 7 have been integrated. The Abstract will be written and added after the completed manuscript has undergone final consistency, terminology, and citation review.
+The Abstract and Chapters 1 through 7 have been integrated. The completed manuscript will next undergo final consistency, terminology, citation, and reference review.

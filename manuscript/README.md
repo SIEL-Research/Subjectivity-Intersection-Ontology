@@ -12,7 +12,8 @@ This directory contains the author-approved manuscript chapters. The files under
 - [5. Comparative Evaluation](05-comparative-evaluation.md)
 - [6. Philosophical Implications and Research Program](06-philosophical-implications-and-research-program.md)
 - [7. Conclusion](07-conclusion.md)
+- [Appendix A. Open Research Methodology and Repository Documentation](appendix-a-open-research-methodology.md)
 
 ## Assembly Status
 
-The Abstract and Chapters 1 through 7 have been integrated. The completed manuscript will next undergo final consistency, terminology, citation, and reference review.
+The Abstract, Chapters 1 through 7, and Appendix A have been integrated. The completed manuscript will next undergo final consistency, terminology, citation, and reference review.

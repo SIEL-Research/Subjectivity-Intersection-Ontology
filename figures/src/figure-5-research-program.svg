@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="700" viewBox="0 0 1500 700" role="img" aria-labelledby="title desc">
+  <title id="title">SIO as a formal and empirical research program</title>
+  <desc id="desc">The research program proceeds from ontological definition through formal hypotheses, operationalization, empirical testing, and revision or rejection. A feedback arrow returns revisions to the ontological and formal levels. Each transition requires additional assumptions.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#33485B"/></marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2A7563"/></marker>
+  </defs>
+  <rect width="1500" height="700" fill="#ffffff"/>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(45 190)"><rect width="245" height="142" rx="18" fill="#EAF2F7" stroke="#245B78" stroke-width="2.5"/><text x="122.5" y="51" text-anchor="middle" font-size="22" font-weight="600" fill="#173B4E">Ontological</text><text x="122.5" y="81" text-anchor="middle" font-size="22" font-weight="600" fill="#173B4E">definition</text><text x="122.5" y="115" text-anchor="middle" font-size="15" fill="#526273">What is proposed to exist?</text></g>
+    <g transform="translate(335 190)"><rect width="245" height="142" rx="18" fill="#F2F4F6" stroke="#66788A" stroke-width="2.5"/><text x="122.5" y="51" text-anchor="middle" font-size="22" font-weight="600" fill="#2D3B49">Formal</text><text x="122.5" y="81" text-anchor="middle" font-size="22" font-weight="600" fill="#2D3B49">hypotheses</text><text x="122.5" y="115" text-anchor="middle" font-size="15" fill="#526273">How can it be represented?</text></g>
+    <g transform="translate(625 190)"><rect width="245" height="142" rx="18" fill="#F2F4F6" stroke="#66788A" stroke-width="2.5"/><text x="122.5" y="66" text-anchor="middle" font-size="22" font-weight="600" fill="#2D3B49">Operationalization</text><text x="122.5" y="108" text-anchor="middle" font-size="15" fill="#526273">What would be observable?</text></g>
+    <g transform="translate(915 190)"><rect width="245" height="142" rx="18" fill="#E8F3EF" stroke="#2A7563" stroke-width="2.5"/><text x="122.5" y="51" text-anchor="middle" font-size="22" font-weight="600" fill="#1F594B">Empirical</text><text x="122.5" y="81" text-anchor="middle" font-size="22" font-weight="600" fill="#1F594B">testing</text><text x="122.5" y="115" text-anchor="middle" font-size="15" fill="#526273">Does it discriminate alternatives?</text></g>
+    <g transform="translate(1205 190)"><rect width="245" height="142" rx="18" fill="#F7EFE4" stroke="#A66D1F" stroke-width="2.5"/><text x="122.5" y="51" text-anchor="middle" font-size="22" font-weight="600" fill="#704B18">Revision or</text><text x="122.5" y="81" text-anchor="middle" font-size="22" font-weight="600" fill="#704B18">rejection</text><text x="122.5" y="115" text-anchor="middle" font-size="15" fill="#526273">What must change or fail?</text></g>
+  </g>
+
+  <g fill="none" stroke="#33485B" stroke-width="2.6" marker-end="url(#arrow)">
+    <line x1="291" y1="261" x2="327" y2="261"/>
+    <line x1="581" y1="261" x2="617" y2="261"/>
+    <line x1="871" y1="261" x2="907" y2="261"/>
+    <line x1="1161" y1="261" x2="1197" y2="261"/>
+  </g>
+
+  <g font-family="Arial, Helvetica, sans-serif" font-size="15" fill="#526273" text-anchor="middle">
+    <text x="309" y="236">formalize</text>
+    <text x="599" y="224">specify</text><text x="599" y="243">observables</text>
+    <text x="889" y="224">test against</text><text x="889" y="243">alternatives</text>
+    <text x="1179" y="224">evaluate</text><text x="1179" y="243">failure conditions</text>
+  </g>
+
+  <path d="M1327 340 L1327 498 C1327 545, 1275 572, 1218 572 L178 572 C110 572, 87 527, 87 471 L87 343" fill="none" stroke="#2A7563" stroke-width="3" marker-end="url(#arrowGreen)"/>
+  <text x="750" y="609" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="19" fill="#2A7563">feedback to ontological assumptions, formal models, and operational definitions</text>
+  <text x="750" y="662" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#526273">No formalization, operationalization, or empirical result, by itself, validates the ontological proposal.</text>
+</svg>

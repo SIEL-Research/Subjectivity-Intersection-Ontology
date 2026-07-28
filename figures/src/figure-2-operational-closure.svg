@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="700" viewBox="0 0 1200 700" role="img" aria-labelledby="title desc">
+  <title id="title">Canonical operational closure among multiple Relative Subjectivities</title>
+  <desc id="desc">Relative Subjectivities A and B jointly constitute Intersection Subjectivity C through perspective intersection. C acts back upon and reconstitutes A and B. The structure is a logical closure rather than a simple chronological sequence.</desc>
+  <defs>
+    <marker id="arrowBlue" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#245B78"/></marker>
+    <marker id="arrowGreen" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#2A7563"/></marker>
+  </defs>
+  <rect width="1200" height="700" fill="#ffffff"/>
+  <rect x="40" y="42" width="1120" height="590" rx="30" fill="none" stroke="#8493A3" stroke-width="2"/>
+  <text x="600" y="82" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#425466">Canonical operational closure</text>
+
+  <rect x="104" y="145" width="290" height="108" rx="18" fill="#EAF2F7" stroke="#245B78" stroke-width="2.5"/>
+  <text x="249" y="185" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" fill="#173B4E">Relative Subjectivity</text>
+  <text x="249" y="224" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-style="italic" fill="#173B4E">A</text>
+
+  <rect x="806" y="145" width="290" height="108" rx="18" fill="#EAF2F7" stroke="#245B78" stroke-width="2.5"/>
+  <text x="951" y="185" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" font-weight="600" fill="#173B4E">Relative Subjectivity</text>
+  <text x="951" y="224" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-style="italic" fill="#173B4E">B</text>
+
+  <path d="M354 254 C420 328, 476 354, 551 392" fill="none" stroke="#245B78" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <path d="M846 254 C780 328, 724 354, 649 392" fill="none" stroke="#245B78" stroke-width="3" marker-end="url(#arrowBlue)"/>
+  <rect x="438" y="300" width="324" height="42" rx="21" fill="#ffffff" stroke="#C5CED6" stroke-width="1.5"/>
+  <text x="600" y="327" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#245B78">Constitutive perspective intersection</text>
+
+  <rect x="423" y="404" width="354" height="112" rx="18" fill="#E8F3EF" stroke="#2A7563" stroke-width="2.5"/>
+  <text x="600" y="447" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="23" font-weight="600" fill="#1F594B">Intersection Subjectivity</text>
+  <text x="600" y="487" text-anchor="middle" font-family="Georgia, serif" font-size="34" font-style="italic" fill="#1F594B">C</text>
+
+  <path d="M480 497 C352 582, 198 549, 196 270" fill="none" stroke="#2A7563" stroke-width="3" marker-end="url(#arrowGreen)"/>
+  <path d="M720 497 C848 582, 1002 549, 1004 270" fill="none" stroke="#2A7563" stroke-width="3" marker-end="url(#arrowGreen)"/>
+  <text x="305" y="567" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2A7563">reconstitution of A</text>
+  <text x="895" y="567" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2A7563">reconstitution of B</text>
+
+  <rect x="323" y="638" width="554" height="38" rx="19" fill="#F2F4F6"/>
+  <text x="600" y="663" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-weight="600" fill="#425466">Arrows denote constitutive dependence rather than temporal sequence.</text>
+</svg>

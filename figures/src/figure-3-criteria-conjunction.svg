@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1500" height="690" viewBox="0 0 1500 690" role="img" aria-labelledby="title desc">
+  <title id="title">Logical relation among N1 through N6</title>
+  <desc id="desc">N1 through N5 are five independent non-additive structural criteria. They jointly feed a conjunction assessment represented by N6, which is not an additional score.</desc>
+  <defs>
+    <marker id="arrow" markerWidth="10" markerHeight="10" refX="9" refY="3" orient="auto" markerUnits="strokeWidth"><path d="M0,0 L0,6 L9,3 z" fill="#243447"/></marker>
+  </defs>
+  <rect width="1500" height="690" fill="#ffffff"/>
+  <text x="750" y="58" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="21" fill="#425466">Independent, non-additive structural criteria</text>
+
+  <g font-family="Arial, Helvetica, sans-serif">
+    <g transform="translate(45 104)"><rect width="250" height="126" rx="17" fill="#EAF2F7" stroke="#245B78" stroke-width="2"/><text x="125" y="42" text-anchor="middle" font-size="28" font-weight="600" fill="#173B4E">N1</text><text x="125" y="77" text-anchor="middle" font-size="17" fill="#2D3B49">Third-subject status</text><text x="125" y="103" text-anchor="middle" font-size="15" fill="#526273">and irreducibility</text></g>
+    <g transform="translate(335 104)"><rect width="250" height="126" rx="17" fill="#EAF2F7" stroke="#245B78" stroke-width="2"/><text x="125" y="42" text-anchor="middle" font-size="28" font-weight="600" fill="#173B4E">N2</text><text x="125" y="77" text-anchor="middle" font-size="17" fill="#2D3B49">Generation through</text><text x="125" y="103" text-anchor="middle" font-size="15" fill="#526273">intersection</text></g>
+    <g transform="translate(625 104)"><rect width="250" height="126" rx="17" fill="#EAF2F7" stroke="#245B78" stroke-width="2"/><text x="125" y="42" text-anchor="middle" font-size="28" font-weight="600" fill="#173B4E">N3</text><text x="125" y="77" text-anchor="middle" font-size="17" fill="#2D3B49">Reconstitution of</text><text x="125" y="103" text-anchor="middle" font-size="15" fill="#526273">originating subjectivities</text></g>
+    <g transform="translate(915 104)"><rect width="250" height="126" rx="17" fill="#EAF2F7" stroke="#245B78" stroke-width="2"/><text x="125" y="42" text-anchor="middle" font-size="28" font-weight="600" fill="#173B4E">N4</text><text x="125" y="77" text-anchor="middle" font-size="17" fill="#2D3B49">Ontological status</text><text x="125" y="103" text-anchor="middle" font-size="15" fill="#526273">of the candidate third</text></g>
+    <g transform="translate(1205 104)"><rect width="250" height="126" rx="17" fill="#EAF2F7" stroke="#245B78" stroke-width="2"/><text x="125" y="42" text-anchor="middle" font-size="28" font-weight="600" fill="#173B4E">N5</text><text x="125" y="77" text-anchor="middle" font-size="17" fill="#2D3B49">General theoretical</text><text x="125" y="103" text-anchor="middle" font-size="15" fill="#526273">scope</text></g>
+  </g>
+
+  <g fill="none" stroke="#66788A" stroke-width="2.5">
+    <path d="M170 231 L170 316 L750 316"/>
+    <path d="M460 231 L460 316"/>
+    <path d="M750 231 L750 316"/>
+    <path d="M1040 231 L1040 316"/>
+    <path d="M1330 231 L1330 316 L750 316"/>
+    <line x1="750" y1="316" x2="750" y2="365" marker-end="url(#arrow)"/>
+  </g>
+
+  <rect x="560" y="378" width="380" height="72" rx="36" fill="#F2F4F6" stroke="#66788A" stroke-width="2"/>
+  <text x="750" y="422" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="22" fill="#2D3B49">Logical conjunction (N1–N5)</text>
+  <line x1="750" y1="451" x2="750" y2="500" stroke="#243447" stroke-width="2.5" marker-end="url(#arrow)"/>
+
+  <rect x="535" y="512" width="430" height="112" rx="18" fill="#E8F3EF" stroke="#2A7563" stroke-width="2.5"/>
+  <text x="750" y="555" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="29" font-weight="600" fill="#1F594B">N6</text>
+  <text x="750" y="591" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="18" fill="#2D3B49">Integration of N1–N5 within one ontology</text>
+  <text x="750" y="662" text-anchor="middle" font-family="Arial, Helvetica, sans-serif" font-size="17" font-style="italic" fill="#526273">N6 is a conjunction condition—not an additional or additive score.</text>
+</svg>
